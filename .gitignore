@@ -1,0 +1,3 @@
+MONGO_URI="mongodb+srv://karthik:abcdefgh@practice1.hpmgqod.mongodb.net/practice1"
+
+JWT_SECRET=mysecretkey123!
